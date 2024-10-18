@@ -1,5 +1,5 @@
 # Library
-# Detta är ett projektarbete i kursen webbutveckling
+# Detta Ã¤r ett projektarbete i kursen webbutveckling
 
 ## Sidor
 - about.html
