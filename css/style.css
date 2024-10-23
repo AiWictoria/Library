@@ -1,0 +1,49 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: floralwhite;
+    padding: 0;
+    margin: 0;
+    color: saddlebrown;
+    line-height: 1.6;
+}
+a{
+    color: purple;
+}
+header{
+    background-color: orange;
+    padding:20px;
+    text-align:center;
+}
+h1{
+    color:floralwhite;
+}
+h2,h3,h4{
+    color: orangered;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: orangered;
+    border-radius: 4px;
+    justify-content: space-around;
+    display: flex; /* Gör listan horisontell */
+    justify-content: space-around; 
+    padding: 10px 20px; /* Padding runt varje lista */
+}
+section {
+    max-width: 90%;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: antiquewhite;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+    border-radius: 20px;
+}
+section p{
+    text-align:justify;
+
+}
+a:hover{
+    color:saddlebrown;
+}
